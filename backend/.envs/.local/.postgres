@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=chuckwagon
+POSTGRES_USER=zFjVKilzhyorkukxphUOhEYEZqeemAPX
+POSTGRES_PASSWORD=rWVbZPnHjli8l7O4HLwnd1vNctKBm0Mm6QuOTKkLlkkuBJI83NvTsMwshiMBXZxU
